@@ -1,0 +1,43 @@
+[
+   {
+      "name":"ITAU",
+      "tem":5.9432
+   },
+   {
+      "name":"BANCO NACION",
+      "tem":5.5975
+   },
+   {
+      "name":"HSBC",
+      "tem":7.0166
+   },
+   {
+      "name":"SANTANDER RIO",
+      "tem":4.3808
+   },
+   {
+      "name":"GALICIA",
+      "tem":9.0791
+   },
+   {
+      "name":"MACRO",
+      "tem":7.0291
+   },
+   {
+      "name":"BBVA",
+      "tem":8.7541
+   },
+   {
+      "name":"CREDICOOP",
+      "tem":6.635
+   },
+   {
+      "name":"ICBC",
+      "tem":5.4166
+   },
+   {
+      "name":"COMAFI",
+      "tem":5.9233
+   }
+]
+
